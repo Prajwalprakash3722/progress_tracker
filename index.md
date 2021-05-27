@@ -19,17 +19,17 @@ I have made this repo inorder to keep a log of my progress, it will make me more
 
 Skills| Basic | Good | intermediate | excellent|
 ----|------|----------|---------|-----------|
-HTML|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-CSS|:heavy_check_mark:|:heavy_check_mark:| | |
-JS|:heavy_check_mark:|:heavy_check_mark:|| |
-c|:heavy_check_mark:|:heavy_check_mark:|| |
-c++|:heavy_check_mark:|:heavy_check_mark:|||
-React-framework|:heavy_check_mark:|:heavy_check_mark:|||
-Python|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-Linux OS|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-Git|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-DSA|:heavy_check_mark:|:heavy_check_mark:|||
-API|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+HTML|&#9989;|&#9989;|&#9989;|&#9989;|
+CSS|&#9989;|&#9989;| | |
+JS|&#9989;|&#9989;|| |
+c|&#9989;|&#9989;|| |
+c++|&#9989;|&#9989;|||
+React-framework|&#9989;|&#9989;|||
+Python|&#9989;|&#9989;|&#9989;||
+Linux OS|&#9989;|&#9989;|&#9989;||
+Git|&#9989;|&#9989;|&#9989;||
+DSA|&#9989;|&#9989;|||
+API|&#9989;|&#9989;|&#9989;||
 
 Should Improve the skills...
 
