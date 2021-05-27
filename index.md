@@ -1,37 +1,123 @@
-## Welcome to GitHub Pages
+# Progress Tracker
 
-You can use the [editor on GitHub](https://github.com/Prajwalprakash3722/progress_tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I have made this repo inorder to keep a log of my progress, it will make me more determined towards my goal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Goals for 2021
+1. Work on personal Projects (on weekends).
+2. Study Python (on Saturdays...).
+3. Workon opensource projects (Sundays...).
+4. Study for College ;( (4 hours).
+5. Learn ML for atleast 1 and a half hour daily.
+6. Workon improving the kannada skills
+7. Learn Algorithms and Dynamic Programming.
+8. Release atleast one python package
 
-### Markdown
+## My Github stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+Skills| Basic | Good | intermediate | excellent|
+----|------|----------|---------|-----------|
+HTML|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+CSS|:heavy_check_mark:|:heavy_check_mark:| | |
+JS|:heavy_check_mark:|:heavy_check_mark:|| |
+c|:heavy_check_mark:|:heavy_check_mark:|| |
+c++|:heavy_check_mark:|:heavy_check_mark:|||
+React-framework|:heavy_check_mark:|:heavy_check_mark:|||
+Python|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+Linux OS|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+Git|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+DSA|:heavy_check_mark:|:heavy_check_mark:|||
+API|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 
-# Header 1
-## Header 2
-### Header 3
+Should Improve the skills...
 
-- Bulleted
-- List
+## Log
 
-1. Numbered
-2. List
+## Tasks Completed During the Month : May
+### 101.7 hrs Total Coded Hours(Via Code-Time)
+- [x] Work on personal Projects (on weekends).
+- [x] Study Python (on Saturdays...).
+- [x] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [x] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
+  
 
-**Bold** and _Italic_ and `Code` text
+## Tasks Completed During the Month : June
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-[Link](url) and ![Image](src)
-```
+## Tasks Completed During the Month : July
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Tasks Completed During the Month : August
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-### Jekyll Themes
+## Tasks Completed During the Month : September
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prajwalprakash3722/progress_tracker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Tasks Completed During the Month : October
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-### Support or Contact
+## Tasks Completed During the Month : November
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Tasks Completed During the Month : December
+### ___ hrs Total Coded Hours(Via Code-Time)
+- [ ] Work on personal Projects (on weekends).
+- [ ] Study Python (on Saturdays...).
+- [ ] Workon opensource projects (Sundays...).
+- [ ] Study for College ;( (4 hours).
+- [ ] Learn ML for atleast 1 and a half hour daily.
+- [ ] Workon improving kannada skills
+- [ ] Daily Meditation (Morning 10mins).
+
+## Projects Worked on 
++ Covid Retweet Bot
++ Covid vaccine avaliabality tracker
++ cgpa calculator
++  
