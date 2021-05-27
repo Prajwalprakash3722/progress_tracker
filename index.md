@@ -5,13 +5,13 @@ I have made this repo inorder to keep a log of my progress, it will make me more
 ## Goals for 2021
 1. Work on personal Projects (on weekends).
 2. Study Python (on Saturdays...).
-3. Workon opensource projects (Sundays...).
-4. Study for College ;( (4 hours).
+3. Work on opensource projects (Sundays...).
+4. Study for College  (4 hours).
 5. Learn ML for atleast 1 and a half hour daily.
-6. Workon improving the kannada skills
+6. Work on improving the kannada skills.
 7. Learn Algorithms and Dynamic Programming.
-8. Release atleast one python package
-
+8. Release atleast one python package.
+9. Cook Various Dishes.
 ## My Github stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
 
@@ -39,10 +39,10 @@ Should Improve the skills...
 ### 101.7 hrs Total Coded Hours(Via Code-Time)
 - [x] Work on personal Projects (on weekends).
 - [x] Study Python (on Saturdays...).
-- [x] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [x] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [x] Workon improving kannada skills
+- [x] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
   
 
@@ -50,70 +50,70 @@ Should Improve the skills...
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : July
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : August
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : September
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : October
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : November
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Tasks Completed During the Month : December
 ### ___ hrs Total Coded Hours(Via Code-Time)
 - [ ] Work on personal Projects (on weekends).
 - [ ] Study Python (on Saturdays...).
-- [ ] Workon opensource projects (Sundays...).
-- [ ] Study for College ;( (4 hours).
+- [ ] Work on opensource projects (Sundays...).
+- [ ] Study for College  (4 hours).
 - [ ] Learn ML for atleast 1 and a half hour daily.
-- [ ] Workon improving kannada skills
+- [ ] Work on improving kannada skills
 - [ ] Daily Meditation (Morning 10mins).
 
 ## Projects Worked on 
